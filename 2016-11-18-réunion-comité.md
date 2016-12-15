@@ -104,21 +104,21 @@ Il faudra faire attention à prendre des futs de 30 litres et non pas de 50 li
 
 Merci aux organisateurs, Bichon et Harmonie.
 
-Attention aux étudiants ayant des contrôles pendant les pots, qui n’ont de toute façon *pas* à organiser de contrôle pendant nos pots.
+Attention aux étudiants ayant des contrôles pendant les pots.
 
 ## WEFI
 
 Sept personnes de l’AIUS étaient présentes au WEFI.
 De « *très très très bons projets* » ont été présentés.
 
-Le chalet dans lequel a eu lieu le WEFI n’a pas brûlé à cause d’une tartiflette.
+Le chalet dans lequel a eu lieu le WEFI a failli brûlé à cause d’une tartiflette, heureusement l'incident a été évité.
 
 # Evénements à venir
 
 ## Don Des Dragons
 
 L’installation devrait se finir le vendredi avant l’évènement.
-Préparer l’installation dans le mangistère, comme prévu auparavant, est une tâche difficile et longue.
+Préparer l’installation dans le magistère, comme prévu auparavant, est une tâche difficile et longue.
 Installer des machines en parallèle s’avère difficile en raison du peu de temps disponible de la part de Nicolas, mais ce problème sera éliminé la veille de l’évènement.
 
 La camionnette de l’AFGES sera disponible pour le transport des machines.
@@ -136,7 +136,7 @@ Un percolateur pour préparer du café sera demandé à Myriam Fournaise ou à l
 Il faudra des bénévoles pour tenir le stand, sur lequel aura lieu distribution de sandwichs, café, thé, etc.
 
 Le GAM servira de « coin jeux vidéos ».
-CGI a annoncé y apporter une une borne d’arcade.
+CGI a annoncé y apporter une borne d’arcade.
 
 Les switchs sont prêts et testés.
 Le badge du parking est en attente.
@@ -145,9 +145,6 @@ Dormez si vous ne pensez pas être capables de ranger le lendemain matin autreme
 Ça, ou soyez de vrais guerriers.
 
 Le local de l’ADEM est à disposition pour dormir pendant la nuit.
-
-> « Attention à ne pas s’endormir dans le train après l’évènement. »
--- Halter
 
 ## 20 ans de l’APRIL
 
@@ -167,12 +164,6 @@ Il faudra préparer un fut et du vin chaud,
 Lucile sera responsable du projet.
 
 Harmonie reste une référence pour toutes les questions d’organisation.
-
-> « bredele ou manala ? »
--- Quelqu’un
-
-> « Chocolatine ou petits pains ? »
--- Quelqu’un d’autre
 
 ## DMI de Noël
 
@@ -254,7 +245,7 @@ Il y a eu un CA très long avec beaucoup de discussions sur beaucoup de points.
 La politique générale de l’AFGES y a été approuvée.
 Le vote du bulletin financier a été reporté au prochain CA.
 
-Les élections CROUS ont été remportées par l'AFGES avec 5 sièges sur 6, le 6e étant l'alliance UNEF/UNI.
+Les élections CROUS ont été remportées par l'AFGES avec 5 sièges sur 6, le 6e étant l'alliance UNEF/EMF.
 
 ## AFNEUS
 
@@ -262,7 +253,7 @@ Association Fédérative Nationale des Étudiants Universitaires en Sciences.
 
 Le congrès de l'AFNEUS a eu lieu le 27, 28, 29 à Lyon. Nous étions 3 à y être allés et l'organisation était très bancale, mais l'AFNEUS n'y était pour rien. Ca s'est quand même bien passé.
 
-Alexandre Podevin a été élu président de l'AFNEUS, mais le changement des statuts a été reporté au prochain CA
+Alexandre Podevin a été élu président de l'AFNEUS, mais le changement des statuts a été reporté au prochain CA.
 
 Guillaume invite tout le monde à donner son avis sur les questions de l'AFNEUS.
 
@@ -287,7 +278,7 @@ Un repas de cohésion sera organisé pour éviter — ou à défaut, mitiger —
 
 L’administration devra être prévenue de nos réunions afin de pouvoir nous évacuer en cas d’incendie.
 
-Un partenariat avec un brasseur est imminent.
+Un partenariat avec Le Brasseur est imminent.
 
 Le cycle des réunions sera plus court et les réunions plus courtes.
 
