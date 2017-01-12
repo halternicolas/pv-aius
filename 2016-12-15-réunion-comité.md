@@ -112,7 +112,7 @@ Guillaume Grosshenny doit envoyer un mail à la Direction Informatique.
 
 # Divers
 
-On pourrais installer ubuntu pour les membres et former les gens à l'utiliser.
+On pourrais installer ubuntu pour les membres et les former à l'utiliser.
 
 ---
 
