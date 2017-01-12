@@ -6,9 +6,25 @@ author:
 - Morgane <span style="font-variant:small-caps;">Ritter</span>
 ...
 
-Membres présents : GROSSHENNY Guillaume, HALTER Nicolas, WEISSGERBER Thomas, RITTER Morgane,KOMMER Marie-France, GLIECH Quentin, OUESLATI Lucile, ARGYRIOU Nicolas, STEIN Eloïse
-Chargés de mission : VANDERVELDEN Luka, ROUSSEAU Phillippine, MULLER Ludovic, HOCQUARD Hippolyte
-Invités : SALINGUE Anna
+**Membres présents :**
+Guillaume <span style="font-variant:small-caps;">Grosshenny</span>,
+Nicolas <span style="font-variant:small-caps;">halter</span>,
+Thomas <span style="font-variant:small-caps;">Weissgerber</span>,
+Morgane <span style="font-variant:small-caps;">Ritter</span>,
+Marie-France <span style="font-variant:small-caps;">Kommer</span>,
+Quentin <span style="font-variant:small-caps;">Gliech</span>,
+Lucile <span style="font-variant:small-caps;">Oueslati</span>,
+Nicolas <span style="font-variant:small-caps;">Argyriou</span>,
+Eloïse <span style="font-variant:small-caps;">Stein</span>
+
+**Chargés de mission :**
+Luka <span style="font-variant:small-caps;">Vandervelden</span>,
+Ludovic <span style="font-variant:small-caps;">Muller</span>,
+Phillippine <span style="font-variant:small-caps;">Rousseau</span>,
+Hippolyte <span style="font-variant:small-caps;"> Hocquard</span>
+ 
+**Invités :**
+Anna <span style="font-variant:small-caps;">Salingue</span>
 
 ---
 
