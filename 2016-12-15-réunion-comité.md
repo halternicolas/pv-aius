@@ -4,14 +4,16 @@ subtitle: Procès verbal
 date : "`2016-12-15T18:45:00`"
 author:
 - Morgane <span style="font-variant:small-caps;">Ritter</span>
-- Maxime *Pompeux* <span style="font-variant:small-caps;">Michelat</span>
+- Maxime <span style="font-variant:small-caps;">Michelat</span>
 ...
 
-**Membre du bureau et du comité présents :**
+**Membres du bureau :**
 Guillaume Grosshenny,
 Nicolas halter,
 Thomas Weissgerber,
 Morgane Ritter,
+
+**Membres du comité :**
 Marie-France Kommer,
 Quentin Gliech,
 Lucile Oueslati,
@@ -22,8 +24,8 @@ Eloïse Stein
 Luka Vandervelden,
 Ludovic Muller,
 Phillippine Rousseau,
-Hippolyte  Hocquard
- 
+Hippolyte Hocquard
+
 **Invités :**
 Anna Salingue
 
@@ -42,9 +44,9 @@ La solution provisoire mise en place pour l'instant est de ne plus permettre de 
 
 # Procès verbaux
 
-## Vote du procès verbal du 18 novembre 2016
+## Procès verbal du 18 novembre 2016
 
-Le vote se fait sous réserve que le décompte exact des votes soit ajouté.
+Le vote se fait sous réserve que le décompte exact des votes notés dans le procès verbal soit ajouté.
 
 | Nombre de votants            | 9 |
 |------------------------------|---|
@@ -53,9 +55,9 @@ Le vote se fait sous réserve que le décompte exact des votes soit ajouté.
 | Votent contre                | 0 |
 | Votent pour                  | 7 |
 
-## Vote du procès verbal du 29 novembre 2016
+## Procès verbal du 29 novembre 2016
 
-Le vote se fait sous réserve que le décompte exact des votes et la liste des présents soient ajoutés.
+Le vote se fait sous réserve que le décompte exact des votes notés dans le procès verbal et la liste des présents soient ajoutés.
 
 | Nombre de votants            | 9 |
 |------------------------------|---|
@@ -66,7 +68,7 @@ Le vote se fait sous réserve que le décompte exact des votes et la liste des p
 
 # Illkirch
 
-Concernant le Forum Etudiants-Entreprise, il faudra contacter l'ENSIIE afin de connaître l'avancement du projet de leur côté.
+Concernant le Forum Étudiants-Entreprise, il faudra contacter l'ENSIIE afin de connaître l'avancement du projet de leur côté.
 Nicolas Halter s'occupera de la caisse d'Illkirch le lendemain de la réunion.
 
 # Evènements passés
@@ -77,7 +79,7 @@ Nous avons reçu 500€ de subventions en moins par rapport à l'année dernièr
 De plus, 50 participants se sont rajoutés à peu avant à la dernière minute.
 Celà a resulté en un manque de nourriture et de boissons.
 
-## Opé Crêpes
+## Opé’ Crêpes
 
 Seuls 6 membres du comité de l'AIUS étaient présents lors de l'Opé Crêpes.
 Nous n'avons pas pu écouler tous les stocks disponibles.
@@ -93,7 +95,7 @@ La moitié des gâteaux prévus n'a pas été faite.
 
 Peu de monde était présent.
 Nous avions prévu 70 à 80 participants, mais seuls 25 sont venus.
-La communication avec Alexandre XXXX pour les courses du Dîner Math-Info était insuffisante. 
+La communication avec Alexandre XXX pour les courses du Dîner Math-Info était insuffisante. 
 Il faudra donc prévoir lors du prochain DMI de contacter le responsable des courses, Anna Salingue, afin qu'elles soient faites plus tôt.
 Le chant étant un des divertissements prévus lors d'un DMI, le Septième Art n'est donc pas un lieu idéal, le personnel n'autorisant pas les excès sonores. 
 
@@ -120,7 +122,7 @@ Le but de cet évènement est de renforcer la cohésion entre les membres du co
 
 # Matériel
 
-Guillaume Grosshenny doit envoyer un mail à la Direction Informatique. 
+Guillaume Grosshenny doit envoyer un mail à la Direction Informatique.
 
 # Cadeaux
 
