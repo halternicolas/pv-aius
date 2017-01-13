@@ -235,6 +235,10 @@ $abstract$
 \end{abstract}
 $endif$
 
+$if(break-after-title)$
+\pagebreak
+$endif$
+
 $for(include-before)$
 $include-before$
 
@@ -242,7 +246,11 @@ $endfor$
 
 $if(toc)$
 {
+$if(toc-title)$
+\renewcommand{\contentsname}{$toc-title$ :}
+$else$
 \renewcommand{\contentsname}{Ordre du jour :}
+$endif$
 $if(colorlinks)$
 \hypersetup{linkcolor=$if(toccolor)$$toccolor$$else$black$endif$}
 $endif$
@@ -250,7 +258,10 @@ $endif$
 \tableofcontents
 }
 $endif$
+$if(dense)$
+$else$
 \pagebreak
+$endif$
 $if(lot)$
 \listoftables
 $endif$
