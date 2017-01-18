@@ -4,6 +4,7 @@ autoload -U colors
 colors
 
 OUTPUT_DIR=.
+TOC_TITLE=
 typeset -la FILES
 
 function info {
@@ -15,6 +16,7 @@ function usage {
 	echo
 	echo "options:"
 	echo "  -o <dir>, --output <dir>         Export files to <dir>."
+	echo "  -t <title>, --toc-title <title>  Sets the table of contents’ title to <title>"
 	echo "  -h, --help                       Prints this message."
 }
 
@@ -23,6 +25,17 @@ while (( $# > 0 )); do
 		-h|--help)
 			usage "$0"
 			exit 0
+		;;
+		-t|--toc-title)
+			[[ -n "$2" ]] || {
+				usage "$0"
+
+				exit 1
+			}
+
+			TOC_TITLE="$2"
+
+			shift 1
 		;;
 		-o|--output|--output-dir)
 			[[ -n "$2" ]] || {
@@ -79,6 +92,9 @@ for FILE in "${FILES[@]}"; do
 		--latex-engine=xelatex \
 		-H header.tex \
 		--template template.tex \
-		-N -V documentclass=article --toc
+		-N \
+		${TOC_TITLE+-V toc-title="${TOC_TITLE}"} \
+		-V babel-otherlangs=french \
+		-V documentclass=article --toc
 done
 
