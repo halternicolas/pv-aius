@@ -1,6 +1,6 @@
 ---
 title : Reunion de comité
-subtitle: Procès verbal
+subtitle: Procès-verbal
 date : "`2016-12-15T18:45:00`"
 author:
 - Morgane <span style="font-variant:small-caps;">Ritter</span>
@@ -8,7 +8,7 @@ author:
 
 **Membres présents :**
 Guillaume <span style="font-variant:small-caps;">Grosshenny</span>,
-Nicolas <span style="font-variant:small-caps;">halter</span>,
+Nicolas <span style="font-variant:small-caps;">Halter</span>,
 Thomas <span style="font-variant:small-caps;">Weissgerber</span>,
 Morgane <span style="font-variant:small-caps;">Ritter</span>,
 Marie-France <span style="font-variant:small-caps;">Kommer</span>,
@@ -35,13 +35,15 @@ Anna <span style="font-variant:small-caps;">Salingue</span>
 
 # Tour de Table
 
-Lucile Oueslati fait remarquer qu'il n'y avait pas beaucoup de personnes de l'AIUS lors du DMI tout commme aux autres différents évènements.
+Lucile Oueslati fait remarquer qu'il n'y avait pas beaucoup de personnes de l'AIUS lors du DMI tout comme aux autres différents évènements.
 
-Quentin Gliech a été contacter par la Direction Informatique.  La Direction Informatique veut qu'on puisse à termes controler les machines connectés sur le résau du local. Pour l'instant une des solutions provisoire mis en place est de ne plus laisser les gens se connecter aux switchs du local.
+Quentin Gliech a été contacté par la Direction Informatique.  La Direction Informatique veut qu'on puisse à terme controler les machines connectées sur le réseau du local. Pour l'instant une des solutions provisoires mise en place est de ne plus laisser les gens se connecter aux switches du local.
 
-# Procès verbaux
+# Procès-verbaux
 
-## Vote du procès verbal du 18 novembre 2016 sous réserve de modification (ajout de l'ordre du jour) :
+## Procès-verbal du 18 novembre 2016 
+
+Le vote se fait sous réserve que l'ordre du jour soit ajouté.
 
 | Nombre de votants            | 9 |
 |------------------------------|---|
@@ -50,7 +52,9 @@ Quentin Gliech a été contacter par la Direction Informatique.  La Direction I
 | Votent contre                | 0 |
 | Votent pour                  | 7 |
 
-## Vote du procès verbal du 29 novembre 2016 sous réserve de modification (ajout du décompte des votes) :
+## Procès-verbal du 29 novembre 2016
+
+Le vote se fait sous réserve que le décompte exact des votes notés dans le procès verbal soit ajouté.
 
 | Nombre de votants            | 9 |
 |------------------------------|---|
@@ -68,41 +72,41 @@ Nicolas Halter fera la caisse d'Illkirch demain.
 # Evènements passés
 
 ## NDI
-Les subventions de la NDI ont baissé par rapport à l'année dernière, en effet on obtient une baisse de -500€ de subventions. De plus le  buffet organisé habituellement par altene n'as pas eu lieu. Enfin 50 participents se sont rajoutés à la dernière minute. On arrive ainsi à un manque de nourritures et de boissons. 
+Les subventions de la NDI ont baissé par rapport à l'année dernière, en effet on a accusé une baisse de 500€ de subventions. De plus, le  buffet organisé habituellement par Altene n'a pas eu lieu. Enfin 50 participants se sont rajoutés à la dernière minute. On arrive ainsi à un manque de nourriture et de boissons. 
 
 ## Opé Crêpes
 
-Il y avait lors de cette opé crêpe 6 membres du comité de l'AIUS qui y participaient.
-Il y avait également un problème avec le chocolat chaud, il était effectivement pas trés bon.
-Le stocke, que nous voulions écouler, ne l'as pas été écouler. Il sera donc écoulé une autre fois.
+Il y avait lors de cette opé crêpes 6 membres du comité de l'AIUS qui y participaient.
+Il y avait également un problème avec le chocolat chaud, il n'était effectivement pas très bon.
+Le stock, que nous voulions écouler, ne l'a pas été. Il sera donc écoulé une autre fois.
 
 ## Pot de Noël
 
-A la fin du pot de Noël, Thomas s'est retrouvé le seul de l'AIUS pour le rangement et n'avait pas la clé du local. Ils ont donc rencontré des problèmes pour ranger la tireuse et les futs.
-La moitié des gâteaux n'ont pas pu être fait.
+A la fin du pot de Noël, Thomas s'est retrouvé être le seul de l'AIUS pour le rangement et n'avait pas la clé du local. Ils ont donc rencontré des problèmes pour ranger la tireuse et les fûts.
+La moitié des gâteaux n'a pas pu être fait.
 
 ## DMI
 
-Il n'y avait pas beaucoup de monde. En effet le nombre de personnes prévu était de 70-80 personnes mais seulement 25 personnes sont venus finalement.
+Il n'y avait pas beaucoup de monde. En effet le nombre de personnes prévu était de 70-80 mais seulement 25 sont venues.
 Il y eu des problèmes de communication pour les courses avec Alexandre. Il faudra prévoir pour la prochaine fois de faire les courses plus tôt et de contacter le responsable des courses, qui est Anna Salingue.
-Le septième art n'est pas un lieu idéal pour faire un DMI, on ne peut effectivement pas chanter. 
+Le Septième Art n'est pas un lieu idéal pour faire un DMI, on ne peut effectivement pas chanter. 
 
 # Evènements à venir
 
 ## Les 20 ans d'APRIL
 
-L'événement n'auras finalement pas lieu, puisque nous n'avons pas reçu de réponse pour une salle.
+L'événement n'aura finalement pas lieu, puisque nous n'avons pas reçu de réponse pour une salle.
 
 ## D&&M
-Le D&&M est l'un des plus gros événement de l'AIUS, c'est une convention de jeu de rôle et de jeu de carte.
-Il faut donc un responsable de projet ou même deux responsables de projet cela ne pose aucun problème.
-Il faudra donc pour janvier 2 responsables de projet. Lucile Oueslati se propose si jamais il n'y a personne d'autre.
+Le D&&M est l'un des plus gros événements de l'AIUS : c'est une convention de jeux de rôle et de jeux de cartes.
+Il faut donc un responsable de projet ou même deux responsables de projet, cela ne pose aucun problème.
+Il faudra donc pour janvier deux responsables de projet. Lucile Oueslati se propose si jamais il n'y a personne d'autre.
 
 ## Repas de cohésion
 
 Le repas de cohésion aura lieu le mardi 20 décembre. Pauline Meyer sera chargée de mettre l'évènement dans l'agenda.
-Il y aura un PAD pour les courses, les quantités et ce que chacun doit ramèner.
-Le but de ce repas est de parler des choses qui ne vont pas ou qui pourrais ne pas aller.
+Il y aura un PAD pour les courses, les quantités et ce que chacun doit ramener.
+Le but de ce repas est de parler des choses qui ne vont pas ou qui pourraient ne pas aller.
 
 # Matériel
 
@@ -112,7 +116,7 @@ Guillaume Grosshenny doit envoyer un mail à la Direction Informatique.
 
 # Divers
 
-On pourrais installer ubuntu pour les membres et les former à l'utiliser.
+On pourrait installer Ubuntu pour les membres et les former à l'utiliser.
 
 ---
 
