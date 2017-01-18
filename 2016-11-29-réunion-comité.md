@@ -40,9 +40,9 @@ Coralie <span style="font-variant:small-caps;">Bach</span>
 
 Nicolas Halter — trésorier — signale que les erreurs de caisse positives restent fréquentes, et que les personnes tenant la caisse doivent être vigilantes.
 
-# Vote du procès verbal du 18 novembre 2016
+# Vote du procès-verbal du 18 novembre 2016
 
-Le procès verbal n’ayant pas encore été publié, il sera voté lors de la réunion suivante.
+Le procès-verbal n’ayant pas encore été publié, il sera voté lors de la réunion suivante.
 
 # Illkirch
 
@@ -55,7 +55,7 @@ Le bureau de vote était effectivement à l'Esplanade.
 
 Antoine Greget et Ludovic Muller se sont proposés comme chargés de mission en raison de leur assistance régulière pour des tâches variées, telles que faire des crocs ou aider à faire les courses.
 
-Vote de principe pour la nomination de ces deux chargés de missions pour les titres de *CM coup de main* et *CM coup de pied*, respectivement.
+Vote de principe pour la nomination de ces deux chargés de missions pour les titres de *CM coup de main* et *CM coup de pied*, respectivement :
 
 | Nombre de votants            | 9 |
 |------------------------------|---|
@@ -78,8 +78,8 @@ Le wiki sera mis à jour pour l’année suivante.
 Le réseau a été un problème et méritera de l’attention dans le futur.
 Les détails seront notés sur le wiki.
 
-Artemis n’a pas pu être joué lors de l’évènement en raison du manque deux machine.
-Il en fallait effectivement 5 et seulement 3 étaient disponible.
+Artemis n’a pas pu être joué lors de l’évènement en raison du manque de deux Machines.
+Il en fallait effectivement 5 et seulement 3 étaient disponibles.
 
 Le DDD a été bénéficiaire de 7 000 €, au lieu des 5 000 € obtenus l’année précédente.
 L’évènement est donc un succès.
@@ -113,14 +113,14 @@ Les derniers ajouts au budget seront utilisés pour l'achat de bouteilles de cid
 
 : Vote de l’achat d’*energy drinks* avec le budget supplémentaire.
 
-## Opé crêpes/gaufres
+## Opé(s) crêpes/gaufres
 
 Aucune opération n’aura lieu avant le prochain semestre.
 Une demande a été faite à l’administration pour obtenir l’autorisation d’utiliser le lieu dans lequel faire ces opérations au prochain semestre.
 
-Un planning doit être fait, dés que l'emploi du temps du semestre prochain est disponible, afin d'affiner la demande à l’administration.
+Un planning doit être fait, dès que l'emploi du temps du semestre prochain est disponible, afin d'affiner la demande à l’administration.
 
-L’ADEM compte faire le 6 décembre une opération crêpes pour écouler les surplus dû aux opérations crêpes des éléctions et invite l’AIUS à y participer.
+L’ADEM compte faire le 6 décembre une opération crêpes pour écouler les surplus dues aux opérations crêpes des élections et invite l’AIUS à y participer.
 
 | Nombre de votants            | 9 |
 |------------------------------|---|
@@ -130,7 +130,7 @@ L’ADEM compte faire le 6 décembre une opération crêpes pour écouler les su
 | Votent pour                  | 9 |
 
 
-Marie-France sera responsable du projet mené conjointement avec l’ADEM dont le chef de projet est Nathannaël Thibaut.
+Marie-France sera responsable du projet mené conjointement avec l’ADEM dont le chef de projet est Nathanaël Thibaut.
 
 ## Pot de Noël
 
@@ -143,7 +143,7 @@ Il faudra des volontaires pour servir les boissons, le vin chaud et préparer la
 Le pot se déroulera sous le GAM à partir de 17h.
 Il faudra cependant penser à vérifier qu’il n’y ait pas d’examen dans le GAM à l’heure du début du pot.
 
-## DMI de noël
+## DMI de Noël
 
 Le DMI sera organisé le mardi 13 décembre 2016.
 
@@ -156,14 +156,14 @@ Le Flam’s et le Wok Six Couleurs restent des solutions d’urgence.
 
 Un évènement par semaine sera organisé.
 
-Une semaine sur deux, l’évènement sera un atelier sxb.so, et l’autre semaine l’évènement sera une miniconf’.
+Une semaine sur deux, l’évènement sera un atelier sxb.so et l’autre semaine l’évènement sera une miniconf’.
 
 ## Repas de cohésion
 
 Le bureau propose d'organiser un repas de cohésion avant Noël.
-La date sera choisi en fonction des disponibiltés de tout le monde.
+La date sera choisie en fonction des disponibilités de tout le monde.
 
-Quentin se propose pour le faire chez lui et commme repas de faire de la raclette.
+Quentin se propose pour le faire chez lui et comme repas de faire de la raclette.
 
 
 ## CERN 2017
@@ -196,7 +196,7 @@ Lucile s’occupera d’émettre la demande au responsable de la Direction Infor
 
 ## AFGES
 
-Les résultats des dernières élections — centrales et CROUS — sont favorables à l’AFGES, avec 72 % et 69 % des voix respectivement.
+Les résultats des dernières élections — centraux et CROUS — sont favorables à l’AFGES, avec 72 % et 69 % des voix respectivement.
 
 Il y a eu 38 % de participation aux centraux à l’UFR de Math-Info, ce qui fait de l’UFR la première en termes de participation.
 L’EOST a été troisième.

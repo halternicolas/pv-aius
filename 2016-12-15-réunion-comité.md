@@ -37,7 +37,7 @@ Anna Salingue
 
 # Tour de Table
 
-Lucile Oueslati fait remarquer que peu de membres de l'AIUS étaient présentes au DMI et aux autres évènements organisés par l'AIUS.
+Lucile Oueslati fait remarquer que peu de membres de l'AIUS étaient présents au DMI et aux autres évènements organisés par l'AIUS.
 
 Quentin Gliech a été contacté par la Direction Informatique dans le but, à terme, de pouvoir contrôler les machines connectées sur le réseau du local.
 La solution provisoire mise en place pour l'instant est de ne plus permettre de se connecter au switch du serveur de l'AIUS.
