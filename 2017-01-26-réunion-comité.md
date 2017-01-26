@@ -158,6 +158,7 @@ La rénovation des locaux est terminé, il ne manque plus que celle du caveau.
 ## AFNEUS
 
 Le WISPA aura bientôt lieu et les informations nous parviendrons en temps voulu.
+
 *Nicolas Frey quitte la réunion à 19:11*
 
 ## Hack/Libre
