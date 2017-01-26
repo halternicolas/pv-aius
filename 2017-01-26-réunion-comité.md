@@ -105,7 +105,8 @@ Les contrats de session vont commencer à être signé entre la semaine prochain
 
 L'ENSIEE a eu du mal à se lancer dans le projet vue qu'il y eu un changement de BDE en décembre. Le nouveau BDE préfère abandonner l'idée de places premium qui ne leur plaît pas.
 Il y aura une réunion jeudi prochain de 18h à 19h à l'UFR.
-Lors du forum, il faudra qu'au moins la moitié du comité soit présent afin d'aider et également pour être aussi présent que les membres du BDE de l'ENSIEE.
+Lors du forum, il faudra qu'au moins la moitié du comité soit présent afin d'aider. 
+Il devra y avoir au moins le même nombre de personnes présentent pour l'AIUS que pour l'ENSIIE.
 
 ## Pot de Pâques
 
@@ -126,7 +127,7 @@ Il faudra donc prévoir une réunion de travail.
 
 ## CERN 2017
 
-Il faut payer une partie du voyage en bus jusqu'au CERN et imprimer les affiches à l'ADEM qui ont désormais une imprimante couleur.
+Il faut payer le premier versement pour le bus jusqu'au CERN (30% de la somme totale) et imprimer les affiches à l'ADEM qui ont désormais une imprimante couleur.
 
 ## Miniconfs & Ateliers sxb.so
 
