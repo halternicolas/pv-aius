@@ -42,13 +42,13 @@ Bastien Sulyan
 
 # Tour de Table
 
-Marie-France nous informe qu'il y aura des croques-monsieurs au pesto mardi prochain.
+Marie-France nous informe qu'il y aura des croque-monsieurs au pesto mardi prochain.
 
 *Timothé Zerbib quitte la réunion à 18:30*
 
 # Procès-verbal de la réunion de comité du 15 décembre 2016
 
-Vote pour l'approbation du procés-verbal:
+Vote pour l'approbation du procès-verbal:
 
 | Nombre de votants            | 12 |
 |------------------------------|----|
@@ -70,7 +70,7 @@ On effectue un vote de principe pour sa nomination :
 | Votent contre                |  2 |
 | Votent pour                  |  7 |
 
-Bastien Sulyan se présente pour devenir CM Développement afin d'aider au dévellopement des outils de l'AIUS.
+Bastien Sulyan se présente pour devenir CM Développement afin d'aider au développement des outils de l'AIUS.
 
 On effectue un vote de principe pour sa nomination :
 
@@ -84,34 +84,33 @@ On effectue un vote de principe pour sa nomination :
 # Illkirch
 
 Il faudrait faire les courses pour le local à Illkirch. 
-Il a deux alternative, soit les fairent au lidl ou au auchan, soit les faire en même temps que celle du local d'Esplanade.
-Dans le deuxième cas, Banc s'occupera d'acheminer les courses à Illkirch, puisqu'il habite à coté de l'UFR et possède une voiture
-Les courses seront donc faitent en même temps que celle d'Esplanade et il faut donc prévenir Benjamin Dusterdick.
+Il y a deux alternatives, soit les faire à Lidl ou à Auchan, soit les faire en même temps que celle du local d'Esplanade.
+Dans le deuxième cas, Banc s'occupera d'acheminer les courses à Illkirch, puisqu'il habite à côté de l'UFR et possède une voiture.
+Les courses seront donc faites en même temps que celle d'Esplanade et il faut donc prévenir Benjamin Dusterdick.
 
 *Ludovic Muller quitte la réunion à 18:57*
 
 #Trésorerie
 
-Nicolas Halter est allé à la banque il y a six jours pour demander une carte bancaire. Celle-ci devrait arriver incessament sous peu.
+Nicolas Halter est allé à la banque il y a six jours pour demander une carte bancaire. Celle-ci devrait arriver incessamment sous peu.
 
 #Grande Bibliothèque Pédagogique Libre
 
 Le projet avance, quelques professeurs ont été questionnés et ils sont globalement d'accords.
-Les contrats de session vont commencer à être signés entre la semaine prochaine et celle d'après.
+Les contrats de session vont commencer à être signé entre la semaine prochaine et celle d'après.
 
 # Evènements à venir
 
 ## Forum étudiants-entreprises
 
-L'ENSIEE a eu du mal à se lancer dans le projet vu qu'il y eu un changement de BDE en décembre. Le nouveau BDE préfère abandonner l'idée de places premiums qui ne leur plaît pas.
+L'ENSIEE a eu du mal à se lancer dans le projet vue qu'il y eu un changement de BDE en décembre. Le nouveau BDE préfère abandonner l'idée de places premium qui ne leur plaît pas.
 Il y aura une réunion jeudi prochain de 18h à 19h à l'UFR.
-Lors du forum, il faudra qu'au moins la moitié du comité soit présent afin d'aider. 
-Il devra y avoir au moins le même nombre de personnes présentent pour l'AIUS que pour l'ENSIIE.
+Lors du forum, il faudra qu'au moins la moitié du comité soit présent afin d'aider et également pour être aussi présent que les membres du BDE de l'ENSIEE.
 
 ## Pot de Pâques
 
-Il faudra donc un chef de projet pour ce pot de pâques se sera Marie-France, aidée par Harmonie.
-On va aussi également tenter d'intégrer l'ASCMI. Il faudra d'abord demander l'avis à l'ADEM et également à l'ASCMI s'ils peuvent participer financièrement.
+Il faudra donc un chef de projet pour ce pot de Pâques ce sera Marie-France, aidée par Harmonie.
+On va également tenter d'intégrer l'ASCMI. Il faudra d'abord demander l'avis à l'ADEM et à l'ASCMI s'ils peuvent participer financièrement.
 
 ## LAN
 
@@ -121,18 +120,18 @@ Nicolas Halter est allé en parler à l'ALCANES et cela ne pose pas de problème
 
 [^DM]: <https://fr-fr.facebook.com/events/1420703991558844> -- Démons && Merveilles
 
-Lucile Oueslati est toujours le chef de projet. Actuellement elle n'as rien pu faire dû a beaucoup de travail. Heureusement Kev a pu reservé la salle, on attend juste son retour. Alexandre Gris lui a également passé ses fichiers de l'année dernière
-Hippolyte Hocquard ainsi que Eloïse Stein et d'autres personnes du comité se sont proposés de l'aider.
+Lucile Oueslati est toujours le chef de projet. À cause d'une charge de travail importante, elle n'a pas encore pu commencer. Heureusement Kev a pu reserver la salle, on attend juste son retour. Alexandre Gris lui a également passé ses fichiers de l'année dernière.
+Hippolyte Hocquard ainsi que Éloïse Stein et d'autres personnes du comité se sont proposés de l'aider.
 Il faudra donc prévoir une réunion de travail.
 
 ## CERN 2017
 
-Il faut payer le premier versement pour le bus jusqu'au CERN (30% de la somme totale) et imprimer les affiches à l'ADEM qui ont désormais une imprimante couleur.
+Il faut payer une partie du voyage en bus jusqu'au CERN et imprimer les affiches à l'ADEM qui ont désormais une imprimante couleur.
 
 ## Miniconfs & Ateliers sxb.so
 
 Les differents évènements sont lancés, il manque juste le nom des intervenants.
-Les slides de la miniconf seront faitent ce soir.
+Les slides de la miniconf seront faites ce soir.
 
 ## Entraide M2 MSI
 
@@ -165,7 +164,7 @@ Le WISPA aura bientôt lieu et les informations nous parviendrons en temps voulu
 
 ## Hack/Libre
 
-L'idée est d'avoir un local pour ces associations afin de créer un hackerspace/fablab avec Marc Chantreux ainsi que Cédric Bastoul et bien sur l'AIUS.
+L'idée est d'avoir un local pour ces associations afin de créer un hackerspace/fablab avec Marc Chantreux ainsi que Cédric Bastoul et bien sûr l'AIUS.
 Il y aura une réunion pour voir si Cédric Bastoul a un endroit à proposer. Si c'est la cas il faudra alors voir avec le VP numérique de l'université.
 
 # Matériel
@@ -177,9 +176,9 @@ Le problème que pose cette nouvelle machine est le bruit.
 
 ## Baie
 
-Afin de régler le problème de bruit du nouveau serveur, il faudrait avoir une baie isonorisé malheureusement elle coûte très chère environ 1500 €.
-C'est pourquoi il va falloir revendre l'ancienne baie qui est estimé par Bastien Sulyvan entre 200 et 300 €.
-Une solution serait de fabriquer une nouvelle baie un minimum isonorisé.
+Afin de régler le problème de bruit du nouveau serveur, il faudrait avoir une baie insonorisé malheureusement elle coûte très chère environ 1500 €.
+C'est pourquoi il va falloir revendre l'ancienne baie qui est estimé par Bastien Sulyan entre 200 et 300 euros.
+Une solution serait de fabriquer une nouvelle baie un minimum insonorisé.
 Il faudra donc faire une réunion de travail.
 
 # Divers
