@@ -182,13 +182,10 @@ Il faudra donc faire une réunion de travail.
 
 # Divers
 
-*Fin de la réunion à 19:16*
-
-Nous pourrions proposer un service d'installation et de formation à l'utilisation du système d'exploitation Ubuntu.
 
 ---
 
-*Fin de la réunion à 19:34.*
+*Fin de la réunion à 19:16*
 
 ---
 
