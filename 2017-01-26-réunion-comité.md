@@ -61,7 +61,7 @@ Vote pour l'approbation du procés-verbal:
 
 Nicolas Frey se présente pour devenir CM Balais afin d'aider au rangement du local.
 
-On effectue on vote de principe pour sa nomination :
+On effectue un vote de principe pour sa nomination :
 
 | Nombre de votants            | 12 |
 |------------------------------|----|
@@ -71,6 +71,8 @@ On effectue on vote de principe pour sa nomination :
 | Votent pour                  |  7 |
 
 Bastien Sulyan se présente pour devenir CM Développement afin d'aider au dévellopement des outils de l'AIUS.
+
+On effectue un vote de principe pour sa nomination :
 
 | Nombre de votants            | 12 |
 |------------------------------|----|
