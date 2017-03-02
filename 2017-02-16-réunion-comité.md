@@ -32,7 +32,7 @@ Harmonie Vo Viet Anh,
 Bastien Sulyan
 
 **Invités :**
-Kevin Deconinck
+Kevin Deconinck,
 Anna Salingue
 
 ---
