@@ -59,6 +59,7 @@ L'AIUS avait prévenu du nombres d'étudiants envoyés mais les MPA et les DUAS 
 Il y a eu un mail de remerciement de M.Blancloeil
 
 # Evénements à venir
+
 ## Pot de Pâques
 Il faut terminer l'affiche avant la fin de la semaine.
 Il faudrait avoir la C9 pour stocker la nourriture.
@@ -67,6 +68,7 @@ Il y aura un framadate pour savoir qui veut porter ces oreilles.
 Une question importante : Est ce qu'on fait la chasse aux oeufs de pâques ?
 Il faudrait donc des oeufs en carton pour recevoir les chocolats.
 Il faudra faire des origami pour la décoration.
+
 ## LAN
 Thomas as contacté l'alcane, ça se fera le 30 mars à la kfet de chimie. On aura à priori des knacks en plus des crocs habituels. 
 On a envoyé un petit sondage pour les jeux à télécharger.
@@ -76,6 +78,7 @@ On essaiera de vendre les t shirts des 42 ans de l'aius.
 Quelques lots peut-être pour le tournoi selon nos partenaires
 Lucille ira s'inspirer des LANs de l'IUT pour savoir comment se procurer des lots de tournois
 Comme il y a également des frais d'inscription pour la LAN on peut également toujours acheter nous même des lots.
+
 ## D&&M
 Tout va bien c'est dans 2 semaines et on a une salle.
 On voulait faire un nouveau site mais au finale on reprends simplement l'ancien et on le mets a jour.
@@ -126,6 +129,7 @@ La particpation de l'ascmi est encore en discussion 1/2 anim mais surtout en log
 Le calendrier universitaire n'est pas encore sorti mais se sera normalement du 4 au 8 septembre.
 Il faut rélféchir aux video de présentation, à changer les questions de la pré-rentrée, a des idées de défis.
 Une réunion de travail sera faite.
+
 *Sortie de Pauline à 19:02*
 
 ## JPO
@@ -133,7 +137,9 @@ L'évènement aura lieu ce samedi.
 Il faudra du monde de 8 à 9 pour l'installation.
 On organise également des visites pendant les JPO du RDC et il faudra une personne pour présenter le local. Du coup au moins UNE personne en permanence dans le local. 
 On fera un grand nettoyage avant et il faudra demander de partir à tous ceux qui ne sont pas dans l'association.
+
 *Entrée de Halter à 19:09*
+
 # Logo
 On pourrait changer le logo de l'aius, si vous avez des idées faite un groupe de travail.
 
@@ -142,10 +148,12 @@ Le placement des tables est assé optimale.
 Le service fonctionne bien et on gagne entre 20-30€ par opé' croques.
 
 # Fédérations
+
 ## AFGES
 Il faut aller aux évènements.
 Il y a des séminaires de communication, c'est les samedis.
 Il y aura le CA mardi en amphi A1 à l'ILB 18h-18h30, penser à ramener quelque chose à manger.
+
 ## AFNEUS
 C'est assez difficile de suivre ce qu'ils font car ça change assez régulièrement
 Le premier WE des vacances c'était censé être un CA en présence et ça s'est transformé en CA à distance au dernier moment.
@@ -154,10 +162,12 @@ Guillaume nous en dira plus quand lui-même en saura plus.
 Le WISE se fera le week end du 30 mars au 2 avril.
 
 # Divers
+
 ## Listes de diffusion
 Bureau@aius etait vexé mais c'est réglé.
 info@aius aius@aius recoivent essentiellement du spam.
 Il faudra créé un auto-reply pour leur dire d'écrire à comité@aius.
+
 ## Infrastructure
 Avec les nouveaux serveurs qu'on a, on a déjà proposé à l'adem et l'ascmi d'héberger des trucs pour eux
 
@@ -165,13 +175,18 @@ C'est un nouveau service qu'on pourrait proposer : faire d'héberger des sites w
 Dans le passé il y a eu des contrats d'hébergement avec notamment l'ACSIS 
 Est-ce qu'on fait des conventions d'hébergement pour que ce soit un peu officiel ? Est-ce qu'on ouvre ça aux assos du réseau ?
 On présentera sûrement ce service aux autres assos du réseau à un CA de l'AFGES
+
 *Chippo et Kévin quittent la reunion à 19:20*
+
 ## A propos de l'ascmi
 Halter dit que c'est plutôt une bonne idée mais FAMI ça impliquerait qu'il devrait y avoir l'AZEA et d'autres associations.
+
 ## Bretzel
 On pourrait proposé des bretzel avec les petits pains. On va faire un beta teste.
+
 ## Drâme des tablette Milka
 On ne vend plus de tablettes milka et c'est une honte
+
 ## Stock
 On a trop de choses qui pourrissent et trop de pertes.
 Les seven up mojito par exemple il y'en a trop.
